@@ -10,3 +10,7 @@ Video juego hecho en Python (Pygame) con el objetivo de familiarizarme con el le
 ![2](https://user-images.githubusercontent.com/106789613/207981981-d9a1f8a7-7884-4af0-b7b6-82967aeb5a1a.png)
 ![3](https://user-images.githubusercontent.com/106789613/207981990-3d4a861b-cf57-47ec-87fc-a649e91dfc5f.png)
 ![4](https://user-images.githubusercontent.com/106789613/207981997-d3e47236-c534-4328-bd7a-64fb1496a633.png)
+
+
+https://user-images.githubusercontent.com/106789613/207989092-d470c960-1ffa-4154-8a4e-2acffe6b1c2b.mp4
+
