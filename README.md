@@ -44,3 +44,8 @@ https://user-images.githubusercontent.com/106789613/207989092-d470c960-1ffa-4154
 - Optimización del juego.
 - Implementar efectos de sonidos.
 - Mejorar animaciones, por ejemplo cuando un personaje recibe daño.
+
+
+# Errores:
+
+- No es posible cargar musica ni sonidosm no se carga la dll "libmpg1230_.dll" (puede ser a nivel local, si es así omitir esta linea)
