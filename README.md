@@ -42,4 +42,3 @@ https://user-images.githubusercontent.com/106789613/207989092-d470c960-1ffa-4154
 - Mejorar escenarios
 - Mejorar Formularios y diseño gráfico
 - Optimización del juego.
-- 
