@@ -39,6 +39,8 @@ https://user-images.githubusercontent.com/106789613/207989092-d470c960-1ffa-4154
 # Futuros cambios:
 
 - Implementar sistema de conteo de tiempo regresivo por nivel.
-- Mejorar escenarios
-- Mejorar Formularios y diseño gráfico
+- Mejorar escenarios.
+- Optimización de  diseño gráfico de formularios, como también a nivel estructura.
 - Optimización del juego.
+- Implementar efectos de sonidos.
+- Mejorar animaciones, por ejemplo cuando un personaje recibe daño.
