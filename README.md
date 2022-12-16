@@ -31,8 +31,8 @@ https://user-images.githubusercontent.com/106789613/207989092-d470c960-1ffa-4154
 
 # Caracteristicas:
 
-- Para guardar y acceder a la informacion del jugador se utiliza la biblioteca SQLITE3.
-- Todos los niveles son cargados mediante archivos JSON.
+- Para guardar y acceder a la informacion del jugador se utiliza la biblioteca @SQLITE3.
+- Todos los niveles son cargados mediante archivos @JSON.
 - Cuenta con un manejador de balas, lo que aumenta la experiencia de juego ya que al morirse un enemigo o jugador no desaparecen las balas disparadas, son independientes.
 
 
