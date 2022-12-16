@@ -20,5 +20,26 @@ Video juego hecho en Python (Pygame) con el objetivo de familiarizarme con el le
 
 ## Video:
 
-  https://user-images.githubusercontent.com/106789613/207989092-d470c960-1ffa-4154-8a4e-2acffe6b1c2b.mp4
+https://user-images.githubusercontent.com/106789613/207989092-d470c960-1ffa-4154-8a4e-2acffe6b1c2b.mp4
 
+# Preparación del entorno:
+
+- Se requiere instalar Visual Studio Code
+- Se debe instalar Pygame
+- Ajustar PATH_RECURSOS y PATH_JSON con la dirección correspondiente.
+
+
+# Caracteristicas:
+
+- Para guardar y acceder a la informacion del jugador se utiliza la biblioteca SQLITE3.
+- Todos los niveles son cargados mediante archivos JSON.
+- Cuenta con un manejador de balas, lo que aumenta la experiencia de juego ya que al morirse un enemigo o jugador no desaparecen las balas disparadas, son independientes.
+
+
+# Futuros cambios:
+
+- Implementar sistema de conteo de tiempo regresivo por nivel.
+- Mejorar escenarios
+- Mejorar Formularios y diseño gráfico
+- Optimización del juego.
+- 
