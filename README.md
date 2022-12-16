@@ -43,7 +43,8 @@ https://user-images.githubusercontent.com/106789613/207989092-d470c960-1ffa-4154
 - Optimización de  diseño gráfico de formularios, como también a nivel estructura.
 - Optimización del juego.
 - Implementar efectos de sonidos.
-- Implementar control de sonido.
+- Implementar control de sonido. (bajar y subir volumen)
+- Mejora de cuadros de textos, en calidad de diseño.
 - Mejorar animaciones, por ejemplo cuando un personaje recibe daño.
 
 
